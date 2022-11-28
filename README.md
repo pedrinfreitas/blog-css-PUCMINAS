@@ -1,3 +1,7 @@
+# Projeto
+Para esse exercício utilizei o svelteKit com tailwind, para o layout preferi utilizar o flexbox seguindo o mobile first.
+
+
 # Tailwind
 
 Um framework que vem ganhando notoriedade no mercado, criado em 2017, é baseado em utilidades e tem como prioridade a facilidade de customização.
